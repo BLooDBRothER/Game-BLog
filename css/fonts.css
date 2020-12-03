@@ -1,0 +1,43 @@
+/* font-family: castoro-regular; */
+
+@font-face{
+    font-family: castoro;
+    src: url("../fonts/Castoro/Castoro-Regular.ttf")
+}
+
+/* font-family: castoro-italic; */
+
+@font-face{
+    font-family: castoro-italic, serif;
+    src: url("../fonts/Castoro/Castoro-Italic.ttf")
+}
+
+/* font-family: Nerko; */
+@font-face{
+    font-family: nerko;
+    src: url("../fonts/Nerko_One/NerkoOne-Regular.ttf")
+}
+
+/* font-family: oswald; */
+@font-face{
+    font-family: oswald;
+    src: url("../fonts/Oswald/Oswald-VariableFont_wght.ttf")
+}
+
+/* font-family: ralewar; */
+@font-face{
+    font-family: raleway;
+    src: url("../fonts/Raleway/Raleway-VariableFont_wght.ttf")
+}
+
+/* font-family: sansita; */
+@font-face{
+    font-family: sansita;
+    src: url("../fonts/Sansita_Swashed/SansitaSwashed-VariableFont_wght.ttf")
+}
+
+/* font-family:urina; */
+@font-face{
+    font-family:urina;
+    src: url("../fonts/Texturina/Texturina-VariableFont_opsz\,wght.ttf")
+}
