@@ -109,7 +109,9 @@ nav{
     background-color: white;
     padding: 0 1.6rem;
     height: 0rem;
-    min-height: 10vh;
+    min-height: 80px;
+    display: flex;
+    align-items: center;
     justify-content: space-between;
     position: relative;
     overflow: hidden;
@@ -117,8 +119,9 @@ nav{
 }
 
 nav .nav-brand{
-    padding: 0.3rem;
-    padding-bottom: 3rem;
+    height: 80px;
+    display: flex;
+    align-items: center;
 }
 
 nav .nav-brand a{
